@@ -1,0 +1,46 @@
+.Upper {
+  display: flex;
+  background-color: blue;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 5px;
+  width: 90vw;
+}
+
+.listOfHistory {
+  margin: 15px;
+}
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.Inner {
+  display: flex;
+  flex-direction: column;
+
+  margin: 10px;
+  padding: 10px;
+}
+.img {
+  height: 50px;
+  width: 50px;
+}
+.searchCon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 25%;
+}
+.logoImg {
+  height: 40px;
+  width: 40px;
+  margin-left: 25px;
+}
+.no-history {
+  text-align: center;
+  font-size: 'Roboto';
+  font-weight: bold;
+  font-size: 40px;
+}
